@@ -190,6 +190,22 @@ h3 {
   .imagem-baixo {
     padding-top: 20px;
   }
+
+  .botao-ouca {
+    margin-bottom: 70px;
+  }
+
+  .carousel-control-next {
+    margin-right: 10px;
+  }
+
+  .carousel-control-prev {
+    margin-left: 10px;
+  }
+
+  footer h4 {
+    margin-top: 20px;
+  }
 }
 
 /* Small devices (landscape phones, 576px and up) */
